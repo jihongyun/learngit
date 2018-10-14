@@ -1,0 +1,9 @@
+com\jihongyun\base\AssertUtil.class
+com\jihongyun\po\User.class
+com\jihongyun\base\BaseMapper.class
+com\jihongyun\base\BaseQuery.class
+com\jihongyun\base\BaseService.class
+com\jihongyun\controller\UserController.class
+com\jihongyun\base\ParamException.class
+com\jihongyun\dao\UserMapper.class
+com\jihongyun\service\UserService.class
